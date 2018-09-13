@@ -23,6 +23,7 @@
 	padding: 20px 35px;
 	display: block;
 	color: black;
+	text-align: center;
 	text-decoration: none;
 	margin: auto;
 	font-size: 16px;
@@ -53,4 +54,10 @@ footer{
 }
 .linea3{
 	border-bottom: 5px solid black;
+}
+img{
+	width: 50%;
+	margin: auto;
+	display: block;
+	padding: 20px;
 }
